@@ -8,7 +8,7 @@ const AboutPage = () => {
         src={"/Remon Hassan.jpg"}
         height={300}
         width={300}
-        alt="Remon Hassan"
+        alt="Remon"
       ></Image>
       <Image
         src={"/images/IMG_0033.jpg"}
